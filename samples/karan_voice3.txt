@@ -1,0 +1,2 @@
+Hello.
+This is a voice recording for my AI project. I'm speaking clearly and slowly so the model can understand me. Each sentence is short and simple. I will try to sound natural and calm.
